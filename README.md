@@ -13,8 +13,6 @@ These functions are essential when working with time-series data or analyzing ev
 - Learned how to **calculate the length of stay** using `DATEDIFF()` in MySQL.  
 - Used **date extraction functions** like `YEAR()`, `MONTH()`, and `DAY()` to break down date values.  
 - Practiced filtering records **within specific time ranges** using `BETWEEN`.  
-- Explored **database-specific functions** (like `JULIANDAY` and `strftime` for SQLite).  
-- Understood how date arithmetic works across different SQL dialects (MySQL, PostgreSQL, SQLite).  
 - Discovered how **casting** and **format consistency** (`YYYY-MM-DD`) help prevent date errors.
 
 ---
